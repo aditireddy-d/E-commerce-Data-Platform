@@ -1,4 +1,4 @@
-# AetherMart Unified Data & AI Platform 🛒🚀
+# Unified Data & AI Platform 🛒🚀
 
 **A Scalable, Hybrid, and AI Powered Infrastructure for Modern E-Commerce.**
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/MariaDB-Galera%20Cluster-003545?style=for-the-badge&logo=mariadb" /> <img src="https://img.shields.io/badge/MongoDB-v7.0-47A248?style=for-the-badge&logo=mongodb" /> <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonaws" /> <img src="https://img.shields.io/badge/VectorDB-Semantic%20Search-8000FF?style=for-the-badge&logo=apachesolr" /> <img src="https://img.shields.io/badge/LLM%20Embeddings-Transformers-FF6F00?style=for-the-badge&logo=huggingface" /> </p>
@@ -197,23 +197,6 @@ The entire platform can be spun up using the Master Orchestrator.
 
 -----
 
-## 📽️ Project Artifacts (Presentations & Demos)
-
-Below are the deliverables for each phase of the AetherMart project.
-
-**[Watch Playlist](https://youtube.com/playlist?list=PLK_6HE4o8OUpRB_lch_VKO0WwT5BGM3Dp&si=tLlqEpFPanNx9sdk)**
-
-| Milestone | Focus Area | Presentation (PPT) | Video |
-| :--- | :--- | :---: | :---: |
-| **Milestone 1** | Schema Design & Normalization | [View PPT](https://www.canva.com/design/DAGyWsZ585E/whlZ2AX8RJ17nxbRji5okQ/edit?utm_content=DAGyWsZ585E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Watch Video](https://youtu.be/6DpNZnWCkcw?si=7f5RtIcxqBt0COU3) |
-| **Milestone 2** | Advanced SQL & Automation | [View PPT](https://www.canva.com/design/DAGzpjAPUI8/47PSApNyMT-DjHNWPjtoHg/edit?utm_content=DAGzpjAPUI8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Watch Video](https://youtu.be/uDWY3ZVCoJA?si=YSRfshF8Wo-SDdSx) |
-| **Milestone 3** | High Availability (Galera/Replication) | [View PPT](https://www.canva.com/design/DAG1mPf_UPw/PsnLuH1gXxfQE1RmWtWaxw/edit?utm_content=DAG1mPf_UPw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Watch Video](https://youtu.be/ZB0uC6ltNyM?si=SZeoa9TeTaIkDOhc) |
-| **Milestone 4** | Schema Evolution & Optimization | [View PPT](https://www.canva.com/design/DAG28HQfYWM/Wno6TSmUc4c25-rtu_y9ZA/edit?utm_content=DAG28HQfYWM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Watch Video](https://youtu.be/5xQbXrUCc_o?si=JCL2vGqnyHp0Jxho) |
-| **Milestone 5** | NoSQL Introduction | [View PPT](https://www.canva.com/design/DAG3-0RK9LI/mrrjg4nbWtFKrTlqer1rAw/edit?utm_content=DAG3-0RK9LI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Watch Video](https://youtu.be/zWDpPyK2zNo?si=Ym7lj-cM9u_0L1sT) |
-| **Milestone 6** | **Final Mastery (Hybrid Real-time Sync)** | [View PPT](https://www.canva.com/design/DAG5dyff2SU/e4QIqmJhNUQoOkwVBMOB8Q/edit?utm_content=DAG5dyff2SU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Watch Video](https://youtu.be/ZClVdKPQdMc?si=MbzG55UIMVJGGpHV) |
-
------
-
 ## 🤝 Contributing
 
 This repository is actively expanding. Feel free to:
@@ -222,14 +205,3 @@ This repository is actively expanding. Feel free to:
 
 ---
 
-## License / Copyright
-© 2026 Yash Chetan Doshi. All rights reserved.
-
-You may not copy, modify, distribute, or use any part of this repository or its contents without prior written permission from the author.
-
-## 🔗 Connect
-
-<p align="left">
-<a href="https://www.linkedin.com/in/yashdoshi8" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yash Doshi" /></a>
-<a href="mailto:yash.doshi@tamu.edu"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
